@@ -1,4 +1,4 @@
-E-COMMERCE APPLICATION BACKEND
+E-COMMERCE BACKEND APPLICATION
 
 This repository contains the backend service for an modern, interactive E-commerce application.
 
